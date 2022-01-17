@@ -1,0 +1,12 @@
+regex
+glob2
+nltk
+tqdm
+numpy
+torch
+numba
+pandas
+matplotlib
+kaggle
+transformers
+tokenizers
